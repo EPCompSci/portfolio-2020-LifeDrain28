@@ -32,7 +32,7 @@ Bear brawl was my first team-based project and it was awesome to be working as a
 
 This game involves two bears, both played by one local keyboard, that fight each other. This game taught me more soft skills than anything else. This project was created for our Java final project - even though the game was written in C#. This game used the Unity engine's built-in collaborative services. I learned a lot about leadership and teamwork, but also some new game development processes such as creating a save file.
 
-## [Untitled Game] by Stratagem Studious
+## [[Untitled Game]](https://github.com/Stratagem-Studios/Stratagem) by Stratagem Studious
 This is the current project I am working on at the moment. Being developed in swift- this game is being worked on by me and the team [Stratagem Studious](https://github.com/Stratagem-Studios). Unfortunately, this game has no confirmed artwork yet. I intend to learn a lot about swift and using external databases from this project. 
 
 # Programming Languages
