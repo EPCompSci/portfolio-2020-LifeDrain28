@@ -36,9 +36,6 @@ This game involves two bears, both played by one local keyboard, that fight each
 This is the current project I am working on at the moment. Being developed in swift- this game is being worked on by me and the team [Stratagem Studious](https://github.com/Stratagem-Studios). Unfortunately, this game has no confirmed artwork yet. I intend to learn a lot about swift and using external databases from this project. 
 
 # Programming Languages
-HTML and CSS 
-  * 2017 - present
-  * Basic
     
 C# 
   * 2017 - present
